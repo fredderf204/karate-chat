@@ -2,6 +2,8 @@
 
 This sample demonstrates how to build a sample karate chat assistant that can provide answers from structures sources (APIs) and non structured sources (knowledge bases). So you can extend your existing RAG patterns to include information from APIs when you want a more structured response.
 
+https://github.com/user-attachments/assets/c00b31bd-43e6-47b5-9dea-77d1f50dd00b
+
 This sample uses the following technologies;
 
 - [Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview) for both for embeddings and inference
@@ -32,8 +34,6 @@ Step 4 can take a while as it's using the [Semantic Chunker](https://python.lang
 ## Usage
 
 After the setup is complete you can run the `karate-assistant` by running the app-func.py file. I prefer to do this by pressing the Run and Debug button in Visual Studio Code.
-
-
 
 Also useful information is printed during the running of this sample including;
 
